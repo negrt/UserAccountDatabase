@@ -1,0 +1,6 @@
+{
+  "Data": {
+    "DefaultConnection": {      "ConnectionString": "Server=(Localdb)\\MSSQLLocalDB;Database=AdminDB2;MultipleActiveResultSets=True;"
+    }
+  }
+}
