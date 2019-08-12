@@ -27,7 +27,7 @@ namespace Lab_SQLServer_Users
         string connString;
         string FilePath = "C:/Users/Negro/source/repos/Lab-SQLServer-Users/Lab-SQLServer-Users";
         SqlConnection sqlConn;
-
+        
         public MainWindow()
         {
             // Step 1: Get the connection string from the json file
@@ -39,10 +39,10 @@ namespace Lab_SQLServer_Users
             // Step 3: Create WPF
             InitializeComponent();
 
-            // Step 4: 
+            // Step 4: Load the DataGrid with data from database
             SetDataGrid();
 
-            // Step 5:
+            // Step 5: Set the text box to display the connection string
             SetTextBoxConnectionString();
         }
        
@@ -60,6 +60,7 @@ namespace Lab_SQLServer_Users
 
         private void OpenSQLConnection()
         {
+            // Open the sql connection
             sqlConn = new SqlConnection(connString);
             sqlConn.Open();
         }
