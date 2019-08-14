@@ -7,3 +7,13 @@ A C# WPF desktop application that has the ability to store user accounts in a da
 * How to load a DataGrid using data from a SQL database
 * How to add data to a SQL server express database using INSERT and an add button event handler
 * How to read a connection string from a JSON file
+
+# Description and Images
+
+
+## Images
+#### Before Adding a New User Account
+![Image of Before Adding a New User Account](https://github.com/negrt/cv/blob/master/images/ADO.NET.PNG?raw=true)
+
+### After Adding a New User Account
+![Image of After Adding a New User Account](https://github.com/negrt/cv/blob/master/images/ADO.NET2.PNG?raw=true)
