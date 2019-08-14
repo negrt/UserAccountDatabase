@@ -9,7 +9,7 @@ A C# WPF desktop application that has the ability to store user accounts in a da
 * How to read a connection string from a JSON file
 
 # Description and Images
-Uses a SQL Server database to store user accounts. Keeps data persistent. Add accounts to the database using Insert statement. Displays the accounts as they are added using Select statement.
+Uses a SQL Server database to store user accounts. Keeps data persistent. Adds accounts to the database using Insert statement. Displays the accounts as they are added using Select statement.
 
 ## Images
 #### Before Adding a New User Account
