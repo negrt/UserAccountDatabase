@@ -16,5 +16,5 @@ Uses a SQL Server database to store user accounts. Keeps data persistent. Adds a
 #### Before Adding a New User Account
 ![Image of Before Adding a New User Account](https://github.com/negrt/cv/blob/master/images/ADO.NET.PNG?raw=true)
 
-### After Adding a New User Account
+#### After Adding a New User Account
 ![Image of After Adding a New User Account](https://github.com/negrt/cv/blob/master/images/ADO.NET2.PNG?raw=true)
